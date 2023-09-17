@@ -677,7 +677,6 @@ th {
 }
 .works-wrapper {
   width: 34%;
-  padding: 20px 0;
 }
 @media (max-width: 960px) {
   .works-wrapper {
